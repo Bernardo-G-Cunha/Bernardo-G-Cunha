@@ -16,7 +16,7 @@ Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistem
 - **Linguagens**: Python (manipulação de dados, boas práticas, uso do módulo `datetime` e biblioteca `matplotlib`), conhecimento básico de Node.js.
 - **Ferramentas**: Git, GitHub, Microsoft 365.
 - **Metodologias**: Conhecimento introdutório em arquitetura de software e metodologias ágeis.
-- **Outras**: Criação de protótipos em Figma.
+- **Outras**: Criação de protótipos de média fidelidade com Figma.
 
 ---
 
