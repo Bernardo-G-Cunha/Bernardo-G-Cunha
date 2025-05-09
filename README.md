@@ -18,7 +18,7 @@ Sou desenvolvedor de software e atualmente curso **Análise e Desenvolvimento de
 
 ## 🌐 Idiomas
 
-- Inglês: intermediário-avançado (pontuação 120 no Duolingo English Test)
+- Inglês: intermediário-avançado (pontuação 120 no DET)
 - Alemão: básico
 
 ## 🚀 Objetivos
