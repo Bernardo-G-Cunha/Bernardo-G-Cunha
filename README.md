@@ -18,7 +18,6 @@ Sou desenvolvedor de software e atualmente curso **Análise e Desenvolvimento de
 
 ## 🌐 Idiomas
 
-- Português: nativo  
 - Inglês: intermediário-avançado (pontuação 120 no Duolingo English Test)
 - Alemão: básico
 
