@@ -5,7 +5,7 @@ Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistem
 ---
 
 ## Sobre mim
-- 🎓 **Formação**: Tecnólogo em Análise e Desenvolvimento de Sistemas (PUC-RS, 2024-2027).
+- 🎓 **Formação**: Tecnólogo em Análise e Desenvolvimento de Sistemas (PUC-RS, Em Andamento).
 - 💼 **Experiência profissional**: Jovem Aprendiz no setor financeiro da Associação Hospitalar Moinhos de Vento.
 - 🔍 **Foco atual**: Desenvolvimento back-end com Python e Node.js.
 - 🌐 **Idiomas**: Inglês intermediário-avançado (120 no DET), Alemão básico.
@@ -13,8 +13,8 @@ Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistem
 ---
 
 ## Habilidades
-- **Linguagens**: Python (manipulação de dados, uso do módulo `datetime` e biblioteca `matplotlib`), conhecimento básico de Node.js.
-- **Ferramentas**: Git, GitHub, Microsoft 365.
+- **Linguagens**: Python, conhecimento básico de Node.js.
+- **Ferramentas**: Git, GitHub.
 - **Metodologias**: Conhecimento introdutório em arquitetura de software e metodologias ágeis.
 - **Outras**: Criação de protótipos de média fidelidade com Figma.
 
