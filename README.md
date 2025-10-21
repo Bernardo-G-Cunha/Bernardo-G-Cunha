@@ -50,8 +50,8 @@ Anteriormente, trabalhei como **jovem aprendiz** na **Associação Hospitalar Mo
 
 ## Contato
 
-**E-mail:** [bernardo.garcia.cunha@gmail.com](mailto:bernardo.garcia.cunha@gmail.com)
-**LinkedIn:** [linkedin.com/in/bernardo-gcunha](https://www.linkedin.com/in/bernardo-gcunha)
-**GitHub:** [github.com/Bernardo-G-Cunha](https://github.com/Bernardo-G-Cunha)
+* **E-mail:** [bernardo.garcia.cunha@gmail.com](mailto:bernardo.garcia.cunha@gmail.com)
+* **LinkedIn:** [linkedin.com/in/bernardo-gcunha](https://www.linkedin.com/in/bernardo-gcunha)
+* **GitHub:** [github.com/Bernardo-G-Cunha](https://github.com/Bernardo-G-Cunha)
 
 ---
