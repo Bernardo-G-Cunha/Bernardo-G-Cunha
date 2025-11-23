@@ -6,9 +6,9 @@ Sou **desenvolvedor de software** com foco em **back-end** e estou me formando e
 
 ## Experiência
 
-Atualmente, atuo como **jovem aprendiz administrativo** na **TK Elevadores**, no setor de **Recursos Humanos Corporativo**, que atende unidades da América Latina. Nesse cargo, utilizo tecnologia para aprimorar processos internos, incluindo a automação de tarefas com **TypeScript** e o desenvolvimento de **dashboards em Power BI**.
+Atualmente, atuo como **jovem aprendiz administrativo** na **TK Elevadores**, no setor de **RH Corporativo**, que atende unidades da América Latina. Nesse cargo, utilizo tecnologia para aprimorar processos internos, incluindo a automação de tarefas com **Python** e o desenvolvimento de **dashboards em Power BI**.
 
-Anteriormente, trabalhei como **jovem aprendiz** na **Associação Hospitalar Moinhos de Vento**, na área financeira, onde desenvolvi scripts em **Python** para manipulação de dados e otimizar o fluxo de planilhas.
+Anteriormente, trabalhei como **jovem aprendiz** na **Associação Hospitalar Moinhos de Vento**, na área financeira, onde desenvolvi scripts para manipulação de dados.
 
 ---
 
