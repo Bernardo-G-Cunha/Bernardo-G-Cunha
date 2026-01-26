@@ -1,57 +1,84 @@
 # Bernardo Garcia Cunha
 
-Sou **desenvolvedor de software** com foco em **back-end** e estou me formando em **Análise e Desenvolvimento de Sistemas** pela PUC-RS. Tenho interesse em arquitetura de software, design de APIs e boas práticas de desenvolvimento. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para a criação de soluções eficientes e escaláveis.
+**Back-End Software Developer**
+
+I build **clean, reliable, and well-documented back-end systems**, with focus on APIs, data modeling, and maintainable architecture.
 
 ---
 
-## Experiência
+## Core Skills
 
-Atualmente, atuo como **jovem aprendiz administrativo** na **TK Elevadores**, no setor de **RH Corporativo**, que atende unidades da América Latina. Nesse cargo, utilizo tecnologia para aprimorar processos internos, incluindo a automação de tarefas com **Python** e o desenvolvimento de **dashboards em Power BI**.
-
-Anteriormente, trabalhei como **jovem aprendiz** na **Associação Hospitalar Moinhos de Vento**, na área financeira, onde desenvolvi scripts para manipulação de dados.
-
----
-
-## Conhecimentos e Estudos Atuais
-
-* **Python** e desenvolvimento com **Flask**
-* **SQL** e modelagem de dados (**SQLite**, **MySQL**)
-* Fundamentos de **MongoDB** e aplicações NoSQL
-* **Node.js** e introdução ao **Express.js**
-* Estruturação de projetos e padrões de arquitetura
-* Boas práticas de versionamento e documentação com **Git**
+* RESTful API development
+* Back-end architecture and project structuring
+* SQL database modeling
+* Automation and data processing
+* Clear documentation and clean code practices
 
 ---
 
-## Tecnologias
+## Tech Stack
 
-* **Linguagens:** Python, JavaScript (Node.js, TypeScript), SQL
-* **Frameworks:** Flask (aprendendo Express.js)
-* **Bancos de Dados:** SQLite, MySQL, MongoDB (básico)
-* **Ferramentas:** Git, VS Code, Power BI, Microsoft 365, Figma (protótipos de média fidelidade)
-* **Front-end:** HTML5, CSS3, JavaScript
+**Languages**
+
+* Python
+* JavaScript / TypeScript
+* SQL
+
+**Frameworks**
+
+* Flask
+* Express.js (learning)
+
+**Databases**
+
+* SQLite
+* MySQL
+* PostgreSQL
+* MongoDB (basic)
+
+**Tools**
+
+* Git & GitHub
+* Docker (basic)
+* Linux fundamentals
+* Power BI
+
+---
+
+## Experience
+
+**TK Elevator — HR Corporate (LATAM)**
+
+* Python automation for internal processes
+* Data analysis and Power BI dashboards
+
+**Hospital Moinhos de Vento — Finance**
+
+* Data manipulation and automation scripts
 
 ---
 
-## Idiomas
+## Focus
 
-* **Inglês:** Intermediário-avançado (120 pontos no Duolingo English Test)
-* **Alemão:** Básico
-
----
-
-## Objetivos Profissionais
-
-* Atuar como **desenvolvedor back-end**, com foco em qualidade de código, automação e arquitetura limpa.
-* Trabalhar de forma **remota** em equipes técnicas multidisciplinares.
-* Contribuir para **projetos de software** e, futuramente, participar da criação de uma **startup de tecnologia**.
+* Back-end APIs
+* Data-driven systems
+* Scalable and maintainable code
 
 ---
 
-## Contato
+## Languages
 
-* **E-mail:** [bernardo.garcia.cunha@gmail.com](mailto:bernardo.garcia.cunha@gmail.com)
-* **LinkedIn:** [linkedin.com/in/bernardo-gcunha](https://www.linkedin.com/in/bernardo-gcunha)
-* **GitHub:** [github.com/Bernardo-G-Cunha](https://github.com/Bernardo-G-Cunha)
+* English — Upper-intermediate / Advanced (DET 120)
+* German — Basic
 
 ---
+
+## Contact
+
+* Email: [bernardo.garcia.cunha@gmail.com](mailto:bernardo.garcia.cunha@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/bernardo-gcunha](https://www.linkedin.com/in/bernardo-gcunha)
+* GitHub: [https://github.com/Bernardo-G-Cunha](https://github.com/Bernardo-G-Cunha)
+
+---
+
+> Straightforward back-end development focused on clarity, structure, and real-world use cases.
