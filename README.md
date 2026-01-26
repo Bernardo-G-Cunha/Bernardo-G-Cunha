@@ -80,5 +80,3 @@ I build **clean, reliable, and well-documented back-end systems**, with focus on
 * GitHub: [https://github.com/Bernardo-G-Cunha](https://github.com/Bernardo-G-Cunha)
 
 ---
-
-> Straightforward back-end development focused on clarity, structure, and real-world use cases.
