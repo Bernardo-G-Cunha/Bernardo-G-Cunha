@@ -18,30 +18,13 @@ I build **clean, reliable, and well-documented back-end systems**, with focus on
 
 ## Tech Stack
 
-**Languages**
+**Languages:** Python, JavaScript / TypeScript, SQL
 
-* Python
-* JavaScript / TypeScript
-* SQL
+**Frameworks:** Flask
 
-**Frameworks**
+**Databases:** SQLite, MySQL, PostgreSQL, MongoDB (basic)
 
-* Flask
-* Express.js (learning)
-
-**Databases**
-
-* SQLite
-* MySQL
-* PostgreSQL
-* MongoDB (basic)
-
-**Tools**
-
-* Git & GitHub
-* Docker (basic)
-* Linux fundamentals
-* Power BI
+**Tools:** Git & GitHub, Docker (basic), Linux fundamentals, Power BI
 
 ---
 
