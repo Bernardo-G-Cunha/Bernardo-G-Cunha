@@ -1,48 +1,72 @@
 # Bernardo Garcia Cunha
 
-**Back-End Software Developer**
+## Data Science & Back-End Developer
 
-I build **clean, reliable, and well-documented back-end systems**, with focus on APIs, data modeling, and maintainable architecture.
+I work with data analysis, automation, and back-end development using Python and SQL, with focus on analytical applications and business data.
 
----
-
-## Core Skills
-
-* RESTful API development
-* Back-end architecture and project structuring
-* SQL database modeling
-* Automation and data processing
-* Clear documentation and clean code practices
+Currently focused on freelance projects involving analytics, experimentation, dashboards, and data-driven applications for SaaS and e-commerce businesses.
 
 ---
 
 ## Tech Stack
 
-* **Languages:** Python, JavaScript / TypeScript, SQL
-* **Frameworks:** Flask
-* **Databases:** SQLite, MySQL, PostgreSQL, MongoDB (basic)
-* **Tools:** Git & GitHub, Docker (basic), Linux fundamentals, Power BI
+**Languages**
+Python, SQL, JavaScript / TypeScript
+
+**Data & Analytics**
+Pandas, NumPy, Power BI
+
+**Back-End**
+Flask, REST APIs
+
+**Databases**
+PostgreSQL, MySQL, SQLite, MongoDB (basic)
+
+**Tools**
+Git & GitHub, Docker (basic), Linux
+
+---
+
+## Featured Projects
+
+### A/B Testing Analysis
+
+Statistical analysis of conversion experiments using hypothesis testing, confidence intervals, and experiment evaluation workflows.
+
+### Business Analytics Dashboard *(in progress)*
+
+Business and customer analytics dashboard focused on reporting and KPI monitoring.
+
+### Automation & Data Processing
+
+Python scripts for workflow automation, data manipulation, and reporting tasks.
 
 ---
 
 ## Experience
 
-**TK Elevator — HR Corporate (LATAM)**
+### TK Elevator — HR Corporate (LATAM)
 
-* Python automation for internal processes
+* Python automation for internal workflows
 * Data analysis and Power BI dashboards
 
-**Hospital Moinhos de Vento — Finance**
+### Hospital Moinhos de Vento — Finance
 
-* Data manipulation and automation scripts
+* Automation scripts and data processing
 
 ---
 
-## Focus
+## Education
 
-* Back-end APIs
-* Data-driven systems
-* Scalable and maintainable code
+**PUC-RS — Analysis and Development of Systems**
+Expected graduation: 2027
+
+Additional studies in:
+
+* Calculus
+* Linear Algebra
+* Probability
+* Statistics
 
 ---
 
@@ -50,13 +74,12 @@ I build **clean, reliable, and well-documented back-end systems**, with focus on
 
 * English — Upper-intermediate / Advanced (DET 120)
 * German — Basic
+* Portuguese — Native
 
 ---
 
 ## Contact
 
 * Email: [bernardo.garcia.cunha@gmail.com](mailto:bernardo.garcia.cunha@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/bernardo-gcunha](https://www.linkedin.com/in/bernardo-gcunha)
-* GitHub: [https://github.com/Bernardo-G-Cunha](https://github.com/Bernardo-G-Cunha)
-
----
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/bernardo-gcunha)
+* GitHub: [GitHub](https://github.com/Bernardo-G-Cunha)
