@@ -29,17 +29,17 @@ Git & GitHub, Docker (basic), Linux
 
 ## Featured Projects
 
+### Churn Analysis Project
+
+Customer churn analysis focused on behavioral segmentation, retention patterns, and business-oriented insights using Python, SQL, and exploratory analytics.
+
 ### A/B Testing Analysis
 
 Statistical analysis of conversion experiments using hypothesis testing, confidence intervals, and experiment evaluation workflows.
 
-### Business Analytics Dashboard *(in progress)*
+### Task Management Web Application
 
-Business and customer analytics dashboard focused on reporting and KPI monitoring.
-
-### Automation & Data Processing
-
-Python scripts for workflow automation, data manipulation, and reporting tasks.
+Flask and PostgreSQL-based task management application featuring CRUD operations, database integration, and deployed backend architecture.
 
 ---
 
