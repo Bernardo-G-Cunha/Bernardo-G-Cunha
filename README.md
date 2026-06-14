@@ -1,6 +1,6 @@
 # Bernardo Garcia Cunha
 
-## Data Science & Back-End Developer
+## Data Systems, Analytics & Automation
 
 I work with data analysis, automation, and back-end development using Python and SQL, with focus on analytical applications and business data.
 
