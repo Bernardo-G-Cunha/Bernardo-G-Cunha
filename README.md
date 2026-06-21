@@ -37,7 +37,7 @@ Customer churn analysis focused on behavioral segmentation, retention patterns, 
 
 Statistical analysis of conversion experiments using hypothesis testing, confidence intervals, and experiment evaluation workflows.
 
-### Task Management Web Application
+### Task Management API
 
 Flask and PostgreSQL-based task management application featuring CRUD operations, database integration, and deployed backend architecture.
 
